@@ -1,4 +1,4 @@
-# Canada Energy Regulator - Demo Portfolio Project
+# Canada Energy Regulator - Demo Portfolio Project using VITE
 
 ## Purpose of this project
 - Demonstrate abilities of being able to use required languages
